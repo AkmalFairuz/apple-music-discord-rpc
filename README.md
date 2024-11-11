@@ -54,7 +54,7 @@ brew untap nextfire/tap
 Install [Deno](https://deno.com) (v2+), clone the repository and execute [`install.sh`](/scripts/install.sh):
 
 ```
-git clone https://github.com/NextFire/apple-music-discord-rpc.git
+git clone https://github.com/AkmalFairuz/apple-music-discord-rpc.git
 cd apple-music-discord-rpc/
 ./scripts/install.sh
 ```
